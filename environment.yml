@@ -1,0 +1,23 @@
+name: time-series-py313
+channels:
+  - defaults
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.13
+  - ipykernel
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pathlib
+  - python-dotenv
+  - seaborn
+  - xlrd
+  - scipy
+  - u8darts
