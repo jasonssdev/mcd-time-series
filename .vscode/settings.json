@@ -1,4 +1,6 @@
 {
   "python.defaultInterpreterPath": "/Users/jasonssdev/opt/anaconda3/envs/time-series-py313/bin/python",
   "python.terminal.activateEnvironment": true,
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
