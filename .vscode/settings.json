@@ -1,7 +1,4 @@
 {
-    "python.defaultInterpreterPath": "/Users/jasonssdev/opt/anaconda3/envs/time-series-py313/bin/python",
-    "jupyter.notebookFileRoot": "${workspaceFolder}",
-    "python.analysis.extraPaths": [
-        "/Users/jasonssdev/opt/anaconda3/envs/time-series-py313/lib/python3.13/site-packages"
-    ]
+  "python.defaultInterpreterPath": "/Users/jasonssdev/opt/anaconda3/envs/time-series-py313/bin/python",
+  "python.terminal.activateEnvironment": true,
 }
